@@ -1,7 +1,7 @@
 # 👋 Hi There:
 🎓 I am currently a 3rd-year BTech IT student at Coimbatore Institute of Technology<br>🚀 My passion lies in Front-end web development, and I'm constantly seeking to learn new technologies<br>👨‍💻 I specialize in front-end development and have expertise in creating responsive and interactive user interfaces using HTML, CSS, JavaScript, React, and Tailwind CSS.<br> 🍁 I am passionate about continuous learning and have a strong technical foundation, enabling me to expand my knowledge in the field<br>🌱 My focus is on creating efficient and scalable web applications using the JavaScript and ReactJS frameworks.<br>⚡ I am lazy but smart.<br>
 <br>
-<img align="left" alt="coding" width="300" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif">
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Sandi-Guna#4078) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/guna3473) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/guna-p-aa3357245) 
