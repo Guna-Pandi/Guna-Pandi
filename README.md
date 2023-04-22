@@ -1,5 +1,5 @@
 ## 👋 Hi There:
-<img align="middle" height="370"  width="1150" alt="intro"  src="Guna-Git-Gif.gif">
+
  
 <br>
 🎓 I am currently a 3rd-year BTech IT student at Coimbatore Institute of Technology<br>🚀 My passion lies in Front-end web development, and I'm constantly seeking to learn new technologies<br>👨‍💻 I specialize in front-end development and have expertise in creating responsive and interactive user interfaces using HTML, CSS, JavaScript, React, and Tailwind CSS.<br> 🍁 I am passionate about continuous learning and have a strong technical foundation, enabling me to expand my knowledge in the field<br>🌱 My focus is on creating efficient and scalable web applications using the JavaScript and ReactJS frameworks.<br>⚡ I am lazy but smart.<br>
